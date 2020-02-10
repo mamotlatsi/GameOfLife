@@ -5,5 +5,6 @@ public class Main {
         bello.print();
         bello.nextGeneration();
         bello.print();
+
     }
 }
